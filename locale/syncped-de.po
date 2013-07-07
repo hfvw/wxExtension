@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: syncped v2.9.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-04 19:41+0100\n"
-"PO-Revision-Date: 2013-07-04 19:41+0100\n"
+"PO-Revision-Date: 2013-07-07 19:13+0100\n"
 "Last-Translator: Hugo <hugof.vw@gmail.com>\n"
 "Language-Team: Anton van Wezenbeek <a.m.vanwezenbeek@gmail.com>\n"
 "Language: \n"
@@ -19,55 +19,55 @@ msgstr ""
 
 #: ../syncped/frame.cpp:95
 msgid "Project Files"
-msgstr "Project bestanden"
+msgstr "Projekt Datei"
 
 #: ../syncped/frame.cpp:121
 msgid "Files"
-msgstr "Bestanden"
+msgstr "Dateien"
 
 #: ../syncped/frame.cpp:131
 msgid "Explorer"
-msgstr "Verkenner"
+msgstr "Explorer"
 
 #: ../syncped/frame.cpp:138
 msgid "Output"
-msgstr "Resultaten"
+msgstr "Resultäte"
 
 #: ../syncped/frame.cpp:249
 msgid "Ascii Table"
-msgstr "Ascii tabel"
+msgstr "Ascii Tabelle"
 
 #: ../syncped/frame.cpp:316
 msgid "History"
-msgstr "Geschiedenis"
+msgstr "Geschichte"
 
 #: ../syncped/frame.cpp:336
 msgid "Projects"
-msgstr "Projecten"
+msgstr "Projekte"
 
 #: ../syncped/frame.cpp:365
 msgid "Select Projects"
-msgstr "Projecten selecteren"
+msgstr "Projekte selektieren"
 
 #: ../syncped/frame.cpp:445
 msgid "project"
-msgstr "project"
+msgstr "Projekt"
 
 #: ../syncped/frame.cpp:445
 msgid "textfile"
-msgstr "bestand"
+msgstr "Bestand"
 
 #: ../syncped/frame.cpp:531
 msgid "Process is running"
-msgstr "Process is bezig"
+msgstr "Der Verlauf ist beschäftigt."
 
 #: ../syncped/frame.cpp:610
 msgid ""
 "This program offers a portable text or binary editor\n"
 "with automatic syncing."
 msgstr ""
-"Dit programma biedt een text of binaire editor\n"
-"met automatische synchronisatie."
+"Dieses Programm bietet ein Text ob ein binären Editor\n"
+"mit automatischer Synchronisation."
 
 #: ../syncped/frame.cpp:615
 msgid ""
@@ -203,11 +203,11 @@ msgstr "&Resultaten"
 
 #: ../syncped/support.cpp:162
 msgid "&Ascii Table"
-msgstr "&Ascii tabel"
+msgstr "&Ascii Tabelle"
 
 #: ../syncped/support.cpp:165
 msgid "&Select"
-msgstr "&Selecteren"
+msgstr "&Selektieren"
 
 #: ../syncped/support.cpp:176
 msgid "&Open as Text"
@@ -259,15 +259,15 @@ msgstr "&Editor opties"
 
 #: ../syncped/support.cpp:222
 msgid "&View"
-msgstr "&Beeld"
+msgstr "&Prozess"
 
 #: ../syncped/support.cpp:223
 msgid "&Process"
-msgstr "&Proces"
+msgstr "&Prozess"
 
 #: ../syncped/support.cpp:224
 msgid "&Project"
-msgstr "&Project"
+msgstr "&Projekt"
 
 #: ../syncped/support.cpp:225
 msgid "&Window"
